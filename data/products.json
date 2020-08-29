@@ -1,16 +1,1 @@
-[
-    {
-        "title": "Book",
-        "imageUrl": "https://i.pinimg.com/564x/dd/0c/e5/dd0ce52d84c605bf469198ece2ecc51b.jpg",
-        "description": "This is a awesome book ",
-        "price": "20.99",
-        "id": "0.29723339457410747"
-    },
-    {
-        "title": "Django by example",
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51XaSrpJ5WL.jpg",
-        "description": "Django rest framework book ",
-        "price": "9.99",
-        "id": "0.16414526259883133"
-    }
-]
+[{"title":"Book","imageUrl":"https://i.pinimg.com/564x/dd/0c/e5/dd0ce52d84c605bf469198ece2ecc51b.jpg","description":"This is a awesome book ","price":"20.99","id":"0.29723339457410747"},{"id":"0.16414526259883133","title":"Django by example!!","imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51XaSrpJ5WL.jpg","description":"Django rest framework book dfdf","price":"29.99"}]
