@@ -64,3 +64,7 @@ exports.getProducts = (_req, res, next) => {
         });
     });
 };
+
+exports.postDeleteProducts = (req, res, next) => {
+
+}
